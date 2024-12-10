@@ -1,0 +1,27 @@
+.toggle-button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .toggle-button {
+    flex: 1;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    color:black;
+    transition: background-color 0.2s ease;
+  }
+  
+  .toggle-button.selected {
+    background-color: #4caf50;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .toggle-button:hover {
+    background-color: #e0e0e0;
+  }

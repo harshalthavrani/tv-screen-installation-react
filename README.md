@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# TV Screen Installation Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The TV Screen Installation Tool is a React-based application that assists in planning and configuring LED screen installations. The tool allows users to select various configuration options, view the installation details, and download the configuration as a PDF for reference.
 
-## Available Scripts
+## Live Demo
+You can access the live and fully functional application here:
+[https://](https://harshalthavrani.github.io/tv-screen-installation-react/)
 
-In the project directory, you can run:
+### Features
 
-### `npm start`
+Interactive Configuration:
+Users can select screen models, mount types, media players, and receptacle boxes from pre-defined options.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Dynamic Visualization:
+A visual representation of the LED screen and installation components is rendered dynamically based on user inputs.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Project Information:
+Users can input project details such as title, designer's name, department, and date.
 
-### `npm test`
+PDF Download:
+The configuration details and visual representation can be downloaded as a PDF for reference.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Responsive Design:
+The application is designed to work seamlessly across devices.
 
-### `npm run build`
+### Technologies Used
+React: Front-end library for building the user interface.
+JavaScript: Core scripting language for logic implementation.
+HTML/CSS: For structuring and styling the application.
+jsPDF: For generating downloadable PDF files.
+html2canvas: For rendering visual components into images for PDF inclusion.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Installation Instructions`
+To run this project locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone the repository:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+`git clone https://github.com/harshalthavrani/tv-screen-installation-react.git`
+`cd tv-screen-installation-react`
 
-### `npm run eject`
+Install dependencies:
+`npm install`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start the development server:
+`npm start`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Access the application in your browser at:
+`http://localhost:3000`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### `Usage Instructions`
 
-## Learn More
+Configure Installation:
+Use the dropdown menus and input fields to select and configure screen models, mounts, media players, receptacle boxes, orientation, and other parameters.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+View Details:
+The tool dynamically displays the niche dimensions, screen dimensions, and additional notes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Download PDF:
+After completing the configuration, click on the "Download PDF" button to save a detailed PDF report of the setup.
 
-### Code Splitting
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is deployed using GitHub Pages. The live version is available at: [https://](https://harshalthavrani.github.io/tv-screen-installation-react/)
 
-### Analyzing the Bundle Size
+Build the project:
+`npm run build`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Deploy to GitHub Pages:
+`npm run deploy`
 
-### Making a Progressive Web App
+### Screenshots
+![{8C83B1EF-24A2-41F1-AD76-20B9C6882D7B}](https://github.com/user-attachments/assets/6b047092-eb30-4d6a-a000-1e65fb7e0be8)
+![{0538A5C2-5515-457F-B86A-952832F198F2}](https://github.com/user-attachments/assets/8f27f2df-5276-4262-9af8-1c06719b37dd)
+![{00ECBC68-8520-4047-9EB0-0BEC61A04A7F}](https://github.com/user-attachments/assets/2c00f8db-0f7a-4742-be99-7e84de80361a)
+![{20F1D9BD-A90D-4323-94C2-6D9A21C931B0}](https://github.com/user-attachments/assets/ff101a2b-1cf6-449b-bbb4-db35332d735e)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

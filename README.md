@@ -61,7 +61,7 @@ After completing the configuration, click on the "Download PDF" button to save a
 
 ## Deployment
 
-This project is deployed using GitHub Pages. The live version is available at: [https://](https://harshalthavrani.github.io/tv-screen-installation-react/)
+This project is deployed using GitHub Pages. The live version is available at: [TV Screen Install App](https://harshalthavrani.github.io/tv-screen-installation-react/)
 
 Build the project:
 `npm run build`

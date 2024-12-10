@@ -4,7 +4,7 @@ The TV Screen Installation Tool is a React-based application that assists in pla
 
 ## Live Demo
 You can access the live and fully functional application here:
-[https://](https://harshalthavrani.github.io/tv-screen-installation-react/)
+[TV Screen Install App](https://harshalthavrani.github.io/tv-screen-installation-react/)
 
 ### Features
 

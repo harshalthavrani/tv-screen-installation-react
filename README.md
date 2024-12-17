@@ -70,8 +70,11 @@ Deploy to GitHub Pages:
 `npm run deploy`
 
 ### Screenshots
-![{8C83B1EF-24A2-41F1-AD76-20B9C6882D7B}](https://github.com/user-attachments/assets/6b047092-eb30-4d6a-a000-1e65fb7e0be8)
-![{0538A5C2-5515-457F-B86A-952832F198F2}](https://github.com/user-attachments/assets/8f27f2df-5276-4262-9af8-1c06719b37dd)
-![{00ECBC68-8520-4047-9EB0-0BEC61A04A7F}](https://github.com/user-attachments/assets/2c00f8db-0f7a-4742-be99-7e84de80361a)
-![{20F1D9BD-A90D-4323-94C2-6D9A21C931B0}](https://github.com/user-attachments/assets/ff101a2b-1cf6-449b-bbb4-db35332d735e)
+![{7955EE7C-6AE7-4EE6-93D9-EF8343EE33AC}](https://github.com/user-attachments/assets/da03eaa7-fa58-46c6-b36b-4a80aab5d139)
+![{1BD8F49C-6001-4B99-BA9C-F0DCFF60BD19}](https://github.com/user-attachments/assets/496b2317-7059-4154-9759-3f31f77086fc)
+![{F37E7784-0787-4662-A2A1-F0A7DDCA84FE}](https://github.com/user-attachments/assets/aad0cdb6-c5d7-4618-b506-95fc3fbc9cd3)
+![{889EC9AE-6B77-41E6-B895-2F791E1B9C6A}](https://github.com/user-attachments/assets/6902bdb0-2afe-439a-8f0b-a5546145698c)
+![{00EAE705-73BD-4A48-A1AD-DAF777ACDDFC}](https://github.com/user-attachments/assets/d9eb5755-4ad1-49c6-baa9-62cfac089b4e)
+
+
 

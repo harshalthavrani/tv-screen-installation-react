@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tv-screen-installation-react/static/css/main.90133529.css",
-    "main.js": "/tv-screen-installation-react/static/js/main.5d18d442.js",
+    "main.css": "/tv-screen-installation-react/static/css/main.09b05b39.css",
+    "main.js": "/tv-screen-installation-react/static/js/main.2657b2b1.js",
     "static/js/213.3ed91705.chunk.js": "/tv-screen-installation-react/static/js/213.3ed91705.chunk.js",
     "static/js/732.d4fc394f.chunk.js": "/tv-screen-installation-react/static/js/732.d4fc394f.chunk.js",
     "static/js/453.6c078bd3.chunk.js": "/tv-screen-installation-react/static/js/453.6c078bd3.chunk.js",
     "index.html": "/tv-screen-installation-react/index.html",
-    "main.90133529.css.map": "/tv-screen-installation-react/static/css/main.90133529.css.map",
-    "main.5d18d442.js.map": "/tv-screen-installation-react/static/js/main.5d18d442.js.map",
+    "main.09b05b39.css.map": "/tv-screen-installation-react/static/css/main.09b05b39.css.map",
+    "main.2657b2b1.js.map": "/tv-screen-installation-react/static/js/main.2657b2b1.js.map",
     "213.3ed91705.chunk.js.map": "/tv-screen-installation-react/static/js/213.3ed91705.chunk.js.map",
     "732.d4fc394f.chunk.js.map": "/tv-screen-installation-react/static/js/732.d4fc394f.chunk.js.map",
     "453.6c078bd3.chunk.js.map": "/tv-screen-installation-react/static/js/453.6c078bd3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90133529.css",
-    "static/js/main.5d18d442.js"
+    "static/css/main.09b05b39.css",
+    "static/js/main.2657b2b1.js"
   ]
 }
